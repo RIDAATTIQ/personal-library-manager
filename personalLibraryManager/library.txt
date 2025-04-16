@@ -1,0 +1,9 @@
+[
+    {
+        "title": "atomic habits",
+        "author": "james Clear",
+        "year": 2018,
+        "genre": "personal development",
+        "read": true
+    }
+]
