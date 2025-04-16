@@ -1,0 +1,16 @@
+streamlit==1.44.1
+pandas==2.2.3
+numpy==2.2.4
+attrs==25.3.0
+blinker==1.9.0
+cachetools==5.5.2
+certifi==2025.1.31
+charset-normalizer==3.4.1
+click==8.1.8
+colorama==0.4.6
+idna==3.10
+jsonschema==4.23.0
+pillow==11.2.1
+requests==2.32.3
+six==1.17.0
+tornado==6.4.2
